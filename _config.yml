@@ -1,0 +1,28 @@
+name: cellularcostconsultant
+favicon: null
+layout_spectrum: 0.8117778860032558
+typography_spectrum: 0.43556820997036994
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.40861138119362295
+  lightness: 0.17519359290599823
+  saturation: 0.7188353447709233
+  rhythmicContrast: 0.4862765297293663
+purpose: []
